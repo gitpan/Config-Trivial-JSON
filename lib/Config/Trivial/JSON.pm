@@ -1,4 +1,4 @@
-#   $Id: JSON.pm 10 2014-06-04 22:00:02Z adam $
+#   $Id: JSON.pm 12 2014-06-04 22:14:15Z adam $
 
 package Config::Trivial::JSON;
 
@@ -10,7 +10,7 @@ use Carp;
 use warnings;
 use JSON::MaybeXS;
 
-our $VERSION = '0.01_01';
+our $VERSION = '0.02_01';
 my ( $_package, $_file ) = caller;
 
 #

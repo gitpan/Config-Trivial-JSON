@@ -1,4 +1,5 @@
-#   $Id: 03-error.t 6 2014-06-02 21:38:27Z adam $
+#   $Id: 03-error.t 14 2014-06-05 20:28:52Z adam $
+use 5.010;
 use strict;
 use Test;
 use JSON::MaybeXS;

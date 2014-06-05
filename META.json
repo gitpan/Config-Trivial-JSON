@@ -41,7 +41,7 @@
    "provides" : {
       "Config::Trivial::JSON" : {
          "file" : "lib/Config/Trivial/JSON.pm",
-         "version" : "0.01_01"
+         "version" : "0.02_01"
       }
    },
    "release_status" : "testing",
@@ -50,5 +50,5 @@
          "http://www.gnu.org/licenses/lgpl-3.0.txt"
       ]
    },
-   "version" : "0.01_01"
+   "version" : "0.02_01"
 }

@@ -22,11 +22,11 @@ name: Config-Trivial-JSON
 provides:
   Config::Trivial::JSON:
     file: lib/Config/Trivial/JSON.pm
-    version: 0.01_01
+    version: 0.02_01
 requires:
   Config::Trivial: '0.81'
   JSON::MaybeXS: '1.0'
   perl: '5.010'
 resources:
   license: http://www.gnu.org/licenses/lgpl-3.0.txt
-version: 0.01_01
+version: 0.02_01

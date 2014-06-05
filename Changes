@@ -1,6 +1,9 @@
-$Id: Changes 9 2014-06-02 21:45:13Z adam $
+$Id: Changes 14 2014-06-05 20:28:52Z adam $
 
 Revision history for Perl extension Config::Trivial::JSON
 
-0.01_01 03 June 2014
+0.02_01 05 June 2014
+    -   Fix test 3
+
+0.01_01 04 June 2014
     -   Created from Config::Trivial::Storable
